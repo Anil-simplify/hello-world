@@ -1,0 +1,7 @@
+<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
+<<<<<<< HEAD
+<h2> Deployed through Ansible woooow </h2>
+=======
+<h2> Second code change deployed on VM </h2>
+>>>>>>> 848c494fd2d9a45a207000e0cb26c0bdce50ee80
+<h2> Glad to see you here </h2>
